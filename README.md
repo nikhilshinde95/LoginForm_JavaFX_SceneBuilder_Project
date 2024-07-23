@@ -25,3 +25,7 @@ This JavaFX application demonstrates a simple login interface with authenticatio
 1. **Clone the repository:**
    ```bash
    git clone : https://github.com/nikhilshinde95/LoginForm_JavaFX_SceneBuilder_Project.git
+
+## SnapShots : 
+![Login](https://github.com/user-attachments/assets/21034749-6b47-47e8-b85d-752a4ccd3bf6)
+
